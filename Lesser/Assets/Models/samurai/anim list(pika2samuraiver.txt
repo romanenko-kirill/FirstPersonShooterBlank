@@ -1,0 +1,20 @@
+(10-50)walk
+(70-110)run
+(140-220)crawl
+(240-290)loot
+(310-320)jump start
+(340-380)freefal
+(400-500)stanse
+(520-560)hard landing
+(570-580)after run stop
+(600-640)push
+(660-700)pull
+(720-760)pick up object
+(780-820)pull down object
+(850-950)object idle
+(980-1020)object walk
+(1080-1100)death
+(1110-1130)atack(right)
+(1140-1170)atack(left)
+(1180-1202)atack(speshial)
+(1210-1220)get hit

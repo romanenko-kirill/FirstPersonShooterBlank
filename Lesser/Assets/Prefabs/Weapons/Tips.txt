@@ -1,0 +1,1 @@
+When add a weapon, you should choose Layer -> First Person View
